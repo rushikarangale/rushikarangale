@@ -4,11 +4,11 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=abhishekraut1&label=Profile%20Views&color=0&icon=0&pretty=false" />
 </a>
-<ul>
-<li>I’m currently exploring MERN Stack</li> <br />
-<li>Ask me about DSA,Java,Javascript,HTML,CSS,React,etc</li><br />
-<b>How to reach me</b> **karangalerushikesh21@gmail.com**
-</ul>
+- I’m currently exploring **MERN Stack**
+
+- Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
+
+- How to reach me **karangalegopal242gmail.com**
 <b>Connect with me:</b>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
