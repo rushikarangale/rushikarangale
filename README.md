@@ -7,7 +7,7 @@
 <ul>
 <li>I’m currently exploring MERN Stack</li> <br />
 <li>Ask me about DSA,Java,Javascript,HTML,CSS,React,etc</li><br />
-<b>How to reach me</b> karangalerushikesh21@gmail.com
+<b>How to reach me</b> **karangalerushikesh21@gmail.com**
 </ul>
 <b>Connect with me:</b>
 <p align="left">
