@@ -3,9 +3,9 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=abhishekraut1&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a><br />
-- I’m currently exploring **MERN Stack**
+</a>
 
+- I’m currently exploring **MERN Stack**
 - Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
 
 - How to reach me **karangalegopal24@gmail.com**
