@@ -10,7 +10,7 @@
 
 - How to reach me **karangalegopal24@gmail.com**
   <br />
-<b>Connect with me:</b>
+<h3>>Connect with me :</h3>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
 </p>
