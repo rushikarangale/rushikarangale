@@ -8,7 +8,8 @@
 
 - Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
 
-- How to reach me **karangalegopal242gmail.com**
+- How to reach me **karangalegopal24@gmail.com**
+  <br />
 <b>Connect with me:</b>
 <p align="left">
   <h3 align="left">Languages and Tools:</h3>
