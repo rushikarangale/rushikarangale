@@ -5,8 +5,8 @@
   <img src="https://visitcount.itsvg.in/api?id=abhishekraut1&label=Profile%20Views&color=0&icon=0&pretty=false" />
 </a>
 
-- I’m currently exploring **MERN Stack**
-- Ask me about **C++,DSA,Java,Javascript,HTML,CSS,React,etc**
+- I’m currently exploring **Java Full Stack Development**
+- Ask me about **DSA,Java,Javascript,HTML,CSS,React,JDBC,Servlet,JSP,Spring Boot,etc**
 
 - How to reach me **karangalegopal24@gmail.com**
   <br />
